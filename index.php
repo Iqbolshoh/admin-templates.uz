@@ -19,7 +19,6 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Iqbolshoh Ilhomjonov">
 
-
     <title>Iqbolshoh Ilhomjonov</title>
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
